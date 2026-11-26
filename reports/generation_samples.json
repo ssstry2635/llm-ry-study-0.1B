@@ -1,0 +1,24 @@
+{
+  "checkpoint": "best_model.pt",
+  "step": 14750,
+  "seed": 42,
+  "temperature": 0.8,
+  "top_k": 50,
+  "max_new_tokens": 120,
+  "torch": "2.6.0+cu124",
+  "device": "cuda",
+  "samples": [
+    {
+      "prompt": "Once upon a time",
+      "output": "Once upon a time, there was a boy named Tim. Tim liked to play with shapes. He had many shapes like circles, squares, and triangles. He had a big box of shapes. Tim was always glad when he played with his shapes.\nOne day, Tim's mom gave him a new shape. It was a big, round, and shiny shape. Tim was so gl"
+    },
+    {
+      "prompt": "从前有一座山，",
+      "output": "从前有一座山，位于市区西北。\n\n交通\n\n台湾高速铁路：高铁嘉义站\n高速铁路：台15线\n台61线：台61线\n\n参考资料\n\n参见\n\n嘉义县\n嘉义县\n嘉义县旅游<|endoftext|>《Rumble》是台湾女歌手周杰伦第三张翻唱专辑，也是她继《Fear》之后第二张翻唱专辑。此专辑由周杰伦于2016年6月28日发行，并由台湾索尼音乐娱乐发行。专辑于2016年7月18日发行，而专辑的主打歌曲《Loop》则为专辑《Loop》的翻唱版本的"
+    },
+    {
+      "prompt": "人工智能是一门",
+      "output": "人工智能是一门用于展示人工智能的科学理论和实践。\n\n人类可以用数学和统计学来衡量它的智能机构。\n\n人类有许多最古老的知识，包括来自古代的古代科学，以及从古代到现代人类的科学。人类可以通过使用和使用这些知识，从而找到更大的文明，比如文明和科学。人类拥有许多的知识，比如从人类的知识，从机器人或宇宙的知识，以及我们现在的知识。人类可以通过科学理论，或基于语言，来获取知识。\n\n人类通过各种方法和方法，可以运用"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "model_parameters": 110119680,
+  "best_step": 14750,
+  "best_val_loss": 1.7797412872314453,
+  "config": {
+    "vocab_size": 32768,
+    "seq_len": 1024,
+    "n_layer": 12,
+    "n_embd": 768,
+    "n_head": 12,
+    "ffn_hidden": 2048,
+    "dropout": 0.0,
+    "rope_theta": 10000.0,
+    "attn_impl": "sdpa"
+  },
+  "artifacts": [
+    {
+      "path": "checkpoints/012b/best_model.pt",
+      "bytes": 440509524,
+      "sha256": "c8bbc843bb1c4d65f33f29fa74ddb530084c63fa8fd73c370a0a13e111ff668c"
+    },
+    {
+      "path": "data/tokenizer/tokenizer.json",
+      "bytes": 732226,
+      "sha256": "a0584277e0ce20cf0198152fef7295915b65fd9ed479d724c6364082a21d12b4"
+    }
+  ]
+}

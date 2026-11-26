@@ -1,0 +1,28 @@
+{
+  "zh": {
+    "docs_in": 1384748,
+    "docs_filtered": 394599,
+    "docs_dup": 42,
+    "docs_kept": 990107,
+    "chars_kept": 879453347,
+    "est_tokens": 1055344016,
+    "train_docs": 980190,
+    "val_docs": 9917
+  },
+  "en": {
+    "docs_in": 2717700,
+    "docs_filtered": 291,
+    "docs_dup": 0,
+    "docs_kept": 2717409,
+    "chars_kept": 2184253251,
+    "est_tokens": 546063312,
+    "train_docs": 2690542,
+    "val_docs": 26867
+  },
+  "total": {
+    "est_tokens": 1601407328,
+    "zh_token_share": 0.659,
+    "est_hours_one_epoch": 18.5,
+    "elapsed_sec": 1601.7
+  }
+}
