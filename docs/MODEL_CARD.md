@@ -11,7 +11,7 @@
 
 ## 权重与完整性
 
-权重独立发布，不写入 Git 历史。下载位置为本仓库 [Releases](https://github.com/ssstry2635/llm-ry-study-0.1B/releases)。只有 Release 中实际出现 `best_model.pt` 附件后才可下载；本地整理不代表附件已经上传。
+权重已作为 [v0.1.0 Release](https://github.com/ssstry2635/llm-ry-study-0.1B/releases/tag/v0.1.0) 附件公开发布，不写入 Git 历史。直接下载：[best_model.pt](https://github.com/ssstry2635/llm-ry-study-0.1B/releases/download/v0.1.0/best_model.pt)。
 
 `best_model.pt` 为 **440,509,524 bytes**（约 420.1 MiB）。配置、指标和 SHA-256 见 [checkpoint_manifest.json](../reports/checkpoint_manifest.json)。放到 `checkpoints/012b/best_model.pt`，使用本仓库配套 tokenizer。
 
