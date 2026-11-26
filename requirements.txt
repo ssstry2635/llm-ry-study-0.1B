@@ -1,0 +1,11 @@
+# 安装顺序：
+#   1) 本机验证使用官方 CUDA 12.4 索引；其他平台按官方安装说明选版本：
+#      python -m pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+#   2) 其余：python -m pip install -r requirements.txt
+numpy>=2.0
+regex>=2024.0        # GPT-2 风格预分词需要 \p{L} 等 Unicode 类，标准库 re 不支持
+tqdm>=4.66
+pytest>=8.0
+# M1 数据准备（下载用 aria2：winget install aria2.aria2）
+pyarrow>=15.0           # 流式读 parquet
+opencc>=1.1             # 繁体 → 简体（中文维基 12% 字符是繁体）

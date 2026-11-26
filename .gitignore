@@ -1,0 +1,33 @@
+# Environments and local tools
+.venv/
+venv/
+.mimosa/
+.codex/
+.agents/
+.idea/
+.vscode/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+Thumbs.db
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Large generated files; preserve the matching tokenizer
+data/*
+!data/tokenizer/
+data/tokenizer/*
+!data/tokenizer/tokenizer.json
+checkpoints/
+logs/
+*.pt
+*.pth
+*.bin
+*.parquet
+*.aria2
+# Temporary publishing files
+.publish/

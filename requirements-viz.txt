@@ -1,0 +1,2 @@
+# Optional: regenerate figures; not needed for training or inference.
+matplotlib>=3.8
