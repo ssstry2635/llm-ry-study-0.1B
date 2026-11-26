@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">RY · 从零训练 0.1B 语言模型</title>
+  <desc id="desc">从 Python 到 Tokenizer、Transformer 与预训练，110.12M 参数，单张 8GB GPU。</desc>
+  <rect width="1280" height="360" rx="18" fill="#111b2b"/>
+  <path d="M870 0V360M950 0V360M1030 0V360M1110 0V360M1190 0V360M830 70H1280M830 150H1280M830 230H1280M830 310H1280" stroke="#22334a"/>
+  <g fill="none" stroke="#5ed3bd" stroke-width="2" opacity=".7"><path d="M876 100L986 180L1116 88L1210 232M876 100L976 280L1116 88M986 180L1210 232L976 280"/></g>
+  <g fill="#5ed3bd"><circle cx="876" cy="100" r="8"/><circle cx="986" cy="180" r="11"/><circle cx="1116" cy="88" r="8"/><circle cx="1210" cy="232" r="10"/><circle cx="976" cy="280" r="7"/></g>
+  <g font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif">
+    <text x="64" y="70" fill="#5ed3bd" font-size="18" letter-spacing="3">RY'S LEARNING JOURNAL</text>
+    <text x="60" y="150" fill="#f2f5fa" font-weight="700" font-size="52">从零，训练自己的语言模型</text>
+    <text x="64" y="200" fill="#abbcd1" font-size="23">Python → BPE → Transformer → Pretraining</text>
+    <text x="64" y="285" fill="#f2f5fa" font-size="28" font-weight="600">110.12M</text>
+    <text x="235" y="285" fill="#8092ab" font-size="18">parameters</text>
+    <text x="385" y="285" fill="#f2f5fa" font-size="28" font-weight="600">8GB</text>
+    <text x="465" y="285" fill="#8092ab" font-size="18">laptop GPU</text>
+    <text x="630" y="285" fill="#f2f5fa" font-size="28" font-weight="600">15,000</text>
+    <text x="745" y="285" fill="#8092ab" font-size="18">steps</text>
+  </g>
+</svg>
